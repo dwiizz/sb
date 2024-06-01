@@ -73,26 +73,223 @@
     }
   ],
   "categories": [
- {
-   "category_id": 1,
-   "category_name": "ライオン",
-   "category_image": "https://i.pinimg.com/564x/8a/27/cb/8a27cb2f35497116d285c4bc7d63934a.jpg"
- },
- {
-   "category_id": 2,
-   "category_name": "ライオン1",
-   "category_image": "https://i.pinimg.com/564x/c4/32/b0/c432b0d64b18754757bb7fa635942675.jpg"
- },
- {
-   "category_id": 3,
-   "category_name": "獣",
-   "category_image": "https://i.pinimg.com/564x/7e/c2/4d/7ec24d1da768361ead0e5878bb7bf0c3.jpg"
- },
+ 
  {
    "category_id": 4,
-   "category_name": "ビースト1",
+   "category_name": "Squad Busters",
    "category_image": "https://i.pinimg.com/564x/aa/a6/4c/aaa64c72943850621b2f5a62ca7a5d1d.jpg"
  }
 ],
-  "wallpapers": 
+  "wallpapers": [
+ {
+   "wallpaper_id": 1,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 6",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/6.png"
+ },
+ {
+   "wallpaper_id": 2,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 10",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/10.png"
+ },
+ {
+   "wallpaper_id": 3,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 12",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/12.png"
+ },
+ {
+   "wallpaper_id": 4,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 5",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/5.png"
+ },
+ {
+   "wallpaper_id": 5,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 30",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/30.png"
+ },
+ {
+   "wallpaper_id": 6,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 24",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/24.png"
+ },
+ {
+   "wallpaper_id": 7,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 9",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/9.png"
+ },
+ {
+   "wallpaper_id": 8,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 15",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/15.png"
+ },
+ {
+   "wallpaper_id": 9,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 16",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/16.png"
+ },
+ {
+   "wallpaper_id": 10,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 4",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/4.png"
+ },
+ {
+   "wallpaper_id": 11,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 13",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/13.png"
+ },
+ {
+   "wallpaper_id": 12,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 18",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/18.png"
+ },
+ {
+   "wallpaper_id": 13,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 21",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/21.png"
+ },
+ {
+   "wallpaper_id": 14,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 29",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/29.png"
+ },
+ {
+   "wallpaper_id": 15,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 22",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/22.png"
+ },
+ {
+   "wallpaper_id": 16,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 1",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/1.png"
+ },
+ {
+   "wallpaper_id": 17,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 11",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/11.png"
+ },
+ {
+   "wallpaper_id": 18,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 14",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/14.png"
+ },
+ {
+   "wallpaper_id": 19,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 3",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/3.png"
+ },
+ {
+   "wallpaper_id": 20,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 26",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/26.png"
+ },
+ {
+   "wallpaper_id": 21,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 20",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/20.png"
+ },
+ {
+   "wallpaper_id": 22,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 25",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/25.png"
+ },
+ {
+   "wallpaper_id": 23,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 17",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/17.png"
+ },
+ {
+   "wallpaper_id": 24,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 8",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/8.png"
+ },
+ {
+   "wallpaper_id": 25,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 23",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/23.png"
+ },
+ {
+   "wallpaper_id": 26,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 27",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/27.png"
+ },
+ {
+   "wallpaper_id": 27,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 28",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/28.png"
+ },
+ {
+   "wallpaper_id": 28,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 19",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/19.png"
+ },
+ {
+   "wallpaper_id": 29,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 7",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/7.png"
+ },
+ {
+   "wallpaper_id": 30,
+   "category_name": "Squad Busters",
+   "wallpaper_name": "Squad Busters 2",
+   "wallpaper_thumbnail": "",
+   "wallpaper_url": "https://raw.githubusercontent.com/dwiizz/sb/main/2.png"
+ }
+]
 }
